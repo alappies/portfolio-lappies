@@ -5,6 +5,8 @@ import Button from '../../styles/GlobalComponents/Button';
 import { Span } from '../Header/HeaderStyles';
 import { LeftSection } from './HeroStyles';
 
+
+
 const Hero = (props) => (
 <Section row nopadding>
   <LeftSection>
